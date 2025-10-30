@@ -1,0 +1,78 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime files
+pids/
+*.pid
+*.seed
+
+# Environment files
+.env
+.env.*
+
+# Build output
+dist/
+build/
+.tmp/
+.tmp-*/
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Editor directories and files
+.vscode/
+.idea/
+.history/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+public/temp/
+
+# Uploaded files (if your app stores uploads locally)
+uploads/
+public/uploads/
+
+# Misc caches
+.cache/
+.eslintcache
+.parcel-cache/
+.turbo/
+
+# Test output
+jest-cache/
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# Serverless
+.serverless/
+
+# Next/Nuxt/Vite build output (if present)
+.next/
+.nuxt/
+
+# Mac/Linux metadata
+ehthumbs.db
+
+# Lockfiles for alternate package managers (uncomment if you use them and don't want to commit)
+# pnpm-lock.yaml
+
